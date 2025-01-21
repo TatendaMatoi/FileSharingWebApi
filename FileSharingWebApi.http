@@ -1,0 +1,6 @@
+@FileSharingWebApi_HostAddress = http://localhost:5021
+
+GET {{FileSharingWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
